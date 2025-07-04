@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyButr8tNL-JSOPa4TJ73BZdahnacJ5-sbU'; 
+const API_KEY = 'KEY'; 
 // Replace with your actual Gemini API key – this stores the API key to authenticate requests to the Gemini API.
 
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
